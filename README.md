@@ -8,7 +8,7 @@ This is a demo AI Agent prepared for an online live session - Learn Live: Build 
    - Click on "Create codespace on main".
 
 2. **Set Up Environment:**
-   - In the codespace, create the `.env` file from this repo and add your Rasas license key and OpenAI API key to that file (see `.env.example` file)
+   - In the codespace, create the `.env` file, add your [Rasa license key](https://rasa.com/rasa-pro-developer-edition-license-key-request/) and OpenAI API key to that file (see `.env.example` file)
      ```
      RASA_PRO_LICENSE='your_rasa_pro_license_key_here'
      OPENAI_API_KEY='your_openai_api_key_here'
