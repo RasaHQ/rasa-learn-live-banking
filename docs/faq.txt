@@ -1,0 +1,89 @@
+How do I transfer money to another bank account?
+To transfer money to another bank account, you can use our online banking platform, mobile app, or visit a branch. Simply select "Transfer," enter the recipient’s details, the amount, and confirm the transaction.
+
+How long does a transfer take to reach another bank?
+Transfers between banks typically take 1–2 business days. Some payment types, like instant transfers, may process within minutes if eligible.
+
+Can I cancel a transfer I just made?
+If your transfer is still pending, we may be able to cancel it. Please contact us as soon as possible with the transaction details to check if cancellation is possible.
+
+I entered the wrong account number. What can I do?
+If you entered the wrong account number, notify us immediately. We will attempt to recall the funds, but successful recovery depends on whether the money has already been credited to the wrong account.
+
+Is there a fee for transferring money internationally?
+Yes, international transfers usually incur a fee. The amount depends on the destination country and transfer method. Please check our fee schedule or contact us for specifics.
+
+Why hasn’t my transfer arrived yet?
+If your transfer hasn’t arrived, it may be due to processing times, weekends, or holidays. Contact us with the transfer reference so we can investigate.
+
+How much can I transfer in one day?
+Your daily transfer limit depends on your account type. You can view your current limit in online banking or contact us to confirm.
+
+How do I set up a recurring transfer?
+To set up a recurring transfer, log into online banking, choose “Recurring Transfer,” enter the details, select frequency, and confirm. You can also request setup at a branch.
+
+What’s the difference between a wire transfer and an ACH transfer?
+A wire transfer is typically faster and used for large or international transactions, while an ACH transfer is a slower, lower-cost method used for domestic payments.
+
+Can I transfer money to an account in another country?
+Yes, you can transfer money to an international account using our international transfer service. You will need the recipient’s IBAN or account number and SWIFT/BIC code.
+
+Do I need the recipient’s IBAN and SWIFT code for international transfers?
+Yes, for international transfers, the recipient’s IBAN and SWIFT/BIC code are usually required to ensure correct processing.
+
+How do I add a new payee to my online banking?
+To add a new payee online, go to "Manage Payees," select "Add New Payee," enter the required details, and verify with a security code.
+
+Why was my transfer declined?
+A transfer may be declined due to insufficient funds, incorrect details, limits, or security blocks. Contact us for the specific reason.
+
+Can I schedule a transfer for a future date?
+Yes, you can schedule a transfer in advance by selecting a future date when setting up the transfer online.
+
+What information do I need to make a transfer?
+To make a transfer, you typically need the recipient’s account name, number or IBAN, bank name, and routing or SWIFT code, depending on destination.
+
+Is it safe to transfer large amounts online?
+Yes, transferring large amounts online is safe as long as you follow security guidelines like using secure networks and two-factor authentication.
+
+How can I track the status of my transfer?
+You can track your transfer status by viewing your transaction history in online banking or contacting us with the transaction reference.
+
+Can I transfer funds between my own accounts instantly?
+Yes, you can transfer funds between your own accounts instantly through online banking or our mobile app.
+
+What should I do if I suspect fraud in a transfer?
+If you suspect fraud, contact us immediately to freeze or review the transaction. We will guide you through the investigation process.
+
+How do I increase my daily transfer limit?
+To request an increase in your daily transfer limit, contact us or submit a request through online banking. Additional verification may be required.
+
+Are there extra charges if I transfer on weekends or holidays?
+Some transfer methods may incur extra charges on weekends or holidays, depending on processing times. Contact us to confirm if applicable.
+
+What is the cutoff time for same-day transfers?
+The cutoff time for same-day transfers is usually 3:00 PM local time. Transfers after this will process the next business day.
+
+Can I transfer funds using my debit card?
+Yes, you can transfer funds using your debit card if the platform or merchant accepts debit card payments.
+
+How do I transfer money to a credit card account?
+To transfer money to a credit card account, select "Pay Credit Card" in online banking, enter the card number and amount, and confirm payment.
+
+Do transfers show up immediately in my account history?
+Transfers will appear in your account history immediately as pending or processing, depending on the transfer type.
+
+Can I transfer funds from a joint account without the other account holder’s permission?
+You can transfer funds from a joint account without the other account holder’s permission unless specific restrictions are in place on the account.
+
+What happens if the recipient’s account is closed?
+If the recipient’s account is closed, the funds will typically be returned to your account within a few business days.
+
+Can I reverse a transfer if the recipient refuses to return the money?
+Once a transfer is completed, we cannot reverse it without the recipient’s consent or a court order. We can assist with contacting the recipient’s bank if needed.
+
+How do I set up a standing order?
+To set up a standing order, log into online banking, choose “Standing Order,” enter the payment details, frequency, and confirm the setup.
+
+How do I dispute an incorrect transfer?
+To dispute an incorrect transfer, contact us immediately with the transaction details so we can investigate and guide you through the dispute process.

@@ -1,0 +1,63 @@
+version: "3.1"
+
+slots:
+  recipient:
+    type: text
+    mappings:
+      - type: from_llm
+  amount:
+    type: float
+    mappings:
+      - type: from_llm
+  account_name:
+    type: text
+    mappings:
+      - type: from_llm
+  currency:
+    type: text
+    mappings:
+      - type: from_llm
+  duration:
+    type: text
+    mappings:
+      - type: from_llm
+
+responses:
+
+  utter_confirm_savings_account_opened:
+    - text: "Your savings account '{account_name}' has been successfully opened."
+
+  utter_ask_recipient:
+    - text: "Who would you like to send money to?"
+
+  utter_ask_amount:
+    - text: "How much money would you like to send?"
+
+  utter_ask_account_name:
+    - text: "What would you like to call your new account?"
+
+  utter_ask_currency:
+    - text: "Which currency would you like to use?"
+
+  utter_ask_duration:
+    - text: "How many months or years would you like to save for?"
+
+  utter_transfer_complete:
+    - text: "All done. {amount} has been sent to {recipient}."
+
+  utter_greet:
+    - text: "Hello, I am your Banking AI Assistant. I am here to help you open a savings account, initiate a transaction, or provide answers to any questions you may have about our banking services. How may I assist you today?"
+
+  utter_free_chitchat_response:
+    - text: "placeholder"
+      metadata:
+        rephrase: True
+        rephrase_prompt: |
+          The following is a conversation with an AI assistant built with Rasa.
+          The assistant can help the user transfer money.
+          The assistant is helpful, creative, clever, and very friendly.
+          The user is making small talk, and the assistant should respond, keeping things light.
+          Context / previous conversation with the user:
+          {{history}}
+          {{current_input}}
+          Suggested AI Response:

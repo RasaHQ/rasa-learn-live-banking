@@ -1,0 +1,15 @@
+#ignore env variables
+.env
+
+#ignore venv files
+.venv/
+
+#ignore rasa files
+.rasa/
+.rasa/cache/
+
+#ignore models
+models/
+
+#ignore mac files
+.DS_Store

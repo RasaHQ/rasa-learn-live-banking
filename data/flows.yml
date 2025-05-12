@@ -1,0 +1,19 @@
+flows:
+  transfer_money:
+    description: Help users send money to friends and family.
+    steps:
+      - collect: recipient
+      - collect: amount
+        description: the number of US dollars to send
+      - action: utter_transfer_complete
+
+  open_savings_account:
+    description: Collect details to open a savings account.
+    steps:
+      - collect: account_name
+        description: The name the user wants to give their savings account.
+      - collect: currency
+        description: The currency for the savings account.
+      - collect: duration
+        description: The amount of time (e.g., months or years) for the savings account.
+      - action: utter_confirm_savings_account_opened
