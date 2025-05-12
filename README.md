@@ -1,5 +1,5 @@
-# codespaces-quickstart
-Get started with Rasa Pro in the browser using GitHub Codespaces. This is a demo AI Agent prepared for an online live session - Learn Live: Build an AI Agent from Scratch with Rasa, [link](https://www.meetup.com/rasahq/events/307564079/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link)
+# Build an AI Agent from Scratch with Rasa
+This is a demo AI Agent prepared for an online live session - Learn Live: Build an AI Agent from Scratch with Rasa, [link](https://www.meetup.com/rasahq/events/307564079/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link)
 
 ### Steps
 
