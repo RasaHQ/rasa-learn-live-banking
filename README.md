@@ -1,5 +1,5 @@
 # codespaces-quickstart
-Get started with Rasa Pro in the browser using GitHub Codespaces.
+Get started with Rasa Pro in the browser using GitHub Codespaces. This is a demo AI Agent prepared for an online live session - Learn Live: Build an AI Agent from Scratch with Rasa, [link](https://www.meetup.com/rasahq/events/307564079/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link)
 
 ### Steps
 
@@ -8,9 +8,10 @@ Get started with Rasa Pro in the browser using GitHub Codespaces.
    - Click on "Create codespace on main".
 
 2. **Set Up Environment:**
-   - In the codespace, open the `.env` file from this repo and add your license key to that file.
+   - In the codespace, create the `.env` file from this repo and add your Rasas license key and OpenAI API key to that file (see `.env.example` file)
      ```
      RASA_PRO_LICENSE='your_rasa_pro_license_key_here'
+     OPENAI_API_KEY='your_openai_api_key_here'
      ```
    - Set this environment variables by running 
      ```
@@ -21,27 +22,20 @@ Get started with Rasa Pro in the browser using GitHub Codespaces.
      source .venv/bin/activate
      ```
 
-3. **Initialize a New Project:**
-   - In the terminal, run:
-     ```
-     rasa init --template tutorial
-     ```
-     and follow the instructions.
-
-4. **Train the Model:**
+3. **Train the Model:**
    - In the terminal, run:
      ```
      rasa train
      ```
 
-5. **Talk to your Bot:**
+4. **Talk to your Bot:**
    - In the terminal, run
      ```
      rasa inspect
      ```
      GitHub will show a notification, click on the green button to view the inspector where you can chat with your assistant.
 
-6. **Run Custom Actions:**
+5. **Run Custom Actions:**
   In Rasa 3.10 and later, custom actions are automatically run as part of your running assistant. To double-check that this is set up correctly, ensure that your `endpoints.yml` file contains the following configuration:
    ```
    action_endpoint:
